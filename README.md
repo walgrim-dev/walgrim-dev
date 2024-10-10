@@ -1,3 +1,4 @@
-# Graph de Contributions snake
+### Welcome
 
-![Graph de Contributions](https://walgrim-dev.github.io/walgrim-dev/github-contribution-grid-snake.svg)
+![graph-snake](https://raw.githubusercontent.com/walgrim-dev/walgrim-dev/refs/heads/output/github-contribution-grid-snake-dark.svg)
+
